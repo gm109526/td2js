@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.background {
+	background-color: aquamarine;
+}
+
+#backgroundLateBlue {
+	background-color: mediumslateblue;
+}
+
+#backgroundIndianRed {
+	background-color: indianred;
+}
+
+#backgroundRosyBrown {
+	background-color: rosybrown;
+}
+
+#backgroundKhaki {
+	background-color: khaki;
+}
+
+span {
+	background-color: bisque;
+}
+
+h1 {
+	background-color: coral;
+}
+
+ul {
+	background-color: thistle;
+}
+
+.changementCouleur {
+	background-color: red;
+}
